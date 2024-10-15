@@ -1,1 +1,1 @@
-I see the threads being creating, started, and ran, followed by the hash code. Then each of the threads loop 4 times and they exit.
+I see the threads being creating, started, and ran, followed by the hash code. Then each of the threads loop 4 times and they exit. 
